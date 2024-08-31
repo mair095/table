@@ -1,0 +1,40 @@
+
+
+
+
+table {
+  background-color: #f6f6f6;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #999;
+}
+
+th {
+  background: rgb(42, 165, 136);
+  color: white;
+  padding: 6px 12px;
+}
+
+.primary {
+  background-color: #000000;
+}
+
+tfoot > tr  {
+  background: black;
+  color: white;
+}
+
+tbody > tr:hover {
+  background-color: #b98ee6;
+}
+.black{
+  background-color: black;
+} 
+
+
+td{
+  padding: 20px;
+}

@@ -1,0 +1,12 @@
+th {
+background-color: #dfdfe2;
+font-weight: 700;
+letter-spacing: 0.2px;
+text-align: left;
+
+}
+th,td{
+font-size: 1rem;  
+padding: 6px 12px;  
+}
+
